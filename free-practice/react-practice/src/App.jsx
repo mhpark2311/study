@@ -14,9 +14,10 @@ import P251127_TitleBoxApp from './practice-files/251127-title-box/App';
 import P251127_ShoppingList from './practice-files/251127_component_extract';
 import P251130_MovieListCardApp from './practice-files/251130-movie-list-card/App';
 import P251130_TeamListCardApp from './practice-files/251130-team-list-card/App';
+import P251215_Counter from './practice-files/251215_state_and_event_handler';
 
 function App() {
-  return <P251130_TeamListCardApp />;
+  return <P251215_Counter />;
 }
 
 export default App;
