@@ -15,9 +15,13 @@ import P251127_ShoppingList from './practice-files/251127_component_extract';
 import P251130_MovieListCardApp from './practice-files/251130-movie-list-card/App';
 import P251130_TeamListCardApp from './practice-files/251130-team-list-card/App';
 import P251215_Counter from './practice-files/251215_state_and_event_handler';
+import P251223_ButtonToggle from './practice-files/251223_conditional_render';
+import P251223_OpenAndClose from './practice-files/251223_conditional_render_2';
+import P251223_VisibilityToggle from './practice-files/251223_conditional_render_3';
+import P251223_NameListRender from './practice-files/251223_list_render';
 
 function App() {
-  return <P251215_Counter />;
+  return <P251223_NameListRender />;
 }
 
 export default App;
