@@ -23,9 +23,11 @@ import D251224_FruitList from './practice-files/251224_list_rendering';
 import D251224_ProductList from './practice-files/251224_list_and_condition';
 import D251224_ToDoList from './practice-files/251224_list_and_button';
 import D251224_Counter from './practice-files/251224_counter';
+import D251225_DisplayInput from './practice-files/251225_on_change';
+import D251225_CountChar from './practice-files/251225_on_change_2';
 
 function App() {
-  return <D251224_Counter />;
+  return <D251225_CountChar />;
 }
 
 export default App;
