@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-function CountChar(props) {
+function CharacterCounter(props) {
   const [text, setText] = useState('');
   const handleChange = (e) => {
     const value = e.target.value;
@@ -18,4 +18,4 @@ function CountChar(props) {
   );
 }
 
-export default CountChar;
+export default CharacterCounter;
