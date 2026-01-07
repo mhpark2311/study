@@ -1,7 +1,7 @@
 import Temperature from './Temperature';
 
-function App() {
+function TemperatureApp() {
   return <Temperature location="거실" />;
 }
 
-export default App;
+export default TemperatureApp;

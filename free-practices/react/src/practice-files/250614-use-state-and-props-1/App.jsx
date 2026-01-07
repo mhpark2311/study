@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import LikeButton from './LikeButton';
 
-function App() {
+function LikeButtonApp() {
   const [count, setCount] = useState(0);
 
   return (
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default LikeButtonApp;

@@ -1,6 +1,6 @@
 import ProductCounter from './ProductCounter';
 
-function App() {
+function ProductCounterApp() {
   const productName = '사과';
   return (
     <div>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default ProductCounterApp;
